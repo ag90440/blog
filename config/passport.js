@@ -9,8 +9,10 @@ passport.use(
   new GoogleStrategy(
     {
       clientID:
-        "1096204226532-ktn75c7brhf7vt6ugs2na30ptg3rhkod.apps.googleusercontent.com",
-      clientSecret: "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",
+        // "1096204226532-ktn75c7brhf7vt6ugs2na30ptg3rhkod.apps.googleusercontent.com"
+        "726955292457-tjoh64ftuovhdcfqj8v2js3llhvnknca.apps.googleusercontent.com",
+      // clientSecret: "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",
+      clientSecret: "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",
       callbackURL: "/auth/google/callback",
     },
     async (accessToken, refreshToken, profile, done) => {
