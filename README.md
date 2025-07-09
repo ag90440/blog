@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project is a FullStack Web Application designed to manage assessments. It leverages Node.js with Express and MongoDB for the backend, and Angular with Angular Material for the frontend. The application supports functionalities such as CRUD operations for managing accounts, questions, and candidates, role-based access control, and a responsive user interface.
+This project is a FullStack Web Application . It leverages Node.js with Express and MongoDB for the backend, and Angular with Angular Material for the frontend. The application supports functionalities such as CRUD operations for managing accounts, questions, and candidates, role-based access control, and a responsive user interface.
 
 ---
 
